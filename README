@@ -1,0 +1,7 @@
+Required libs: libpng, ffmpeg
+
+Compiling:
+g++ total.cpp -o total -std=c++11 -lpng -lGL -lGLU -lglut
+
+
+
